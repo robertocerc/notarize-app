@@ -16,7 +16,7 @@
             <router-link
                 :to="{ name: 'home' }"
                 class="cursor-pointer font-semibold text-xl tracking-tight"
-                >DROP</router-link
+                >DROCHAIN</router-link
             >
         </div>
         <div class="text-sm hidden lg:flex flex-row">
