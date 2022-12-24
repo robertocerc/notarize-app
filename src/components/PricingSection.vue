@@ -14,7 +14,7 @@
             >
                 <div class="p-6">
                     <h5 class="text-indigo-900 text-xl font-medium mb-2">
-                        DROP
+                        DROCHAIN
                     </h5>
                     <p class="text-gray-700 text-base mb-4">
                         Subscribe to Notarize documents on the Polygon (MATIC)
