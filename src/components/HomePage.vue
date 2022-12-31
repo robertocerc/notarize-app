@@ -23,11 +23,11 @@
                     <h1
                         class="text-indigo-800 text-4xl font-bold text-center px-5 md:px-20"
                     >
-                        Free Cloud-Based Reliable Storage
+                        Blockchain-based Reliable Storage
                     </h1>
                     <h5 class="text-center text-indigo-800">
-                        Take advantage of fast, decentralized and reliable
-                        storage now!
+                        Take advantage of fast, distributed and reliable storage
+                        now!
                     </h5>
                 </div>
                 <div
@@ -38,8 +38,7 @@
                             DROP
                         </h5>
                         <p class="text-gray-700 text-base mb-4">
-                            Subscribe to Notarize documents on the Polygon
-                            (MATIC) Network.
+                            Subscribe to Notarize documents on the Blockchain
                         </p>
                         <p class="text-gray-700 text-base mb-4">$15/cycle</p>
                         <div class="flex justify-center">

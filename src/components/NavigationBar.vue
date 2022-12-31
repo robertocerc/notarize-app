@@ -1,24 +1,11 @@
 <template>
-    <nav class="flex items-center justify-between flex-wrap bg-white px-6 py-4">
-        <div class="flex items-center flex-shrink-0 text-indigo-800 mr-6">
-            <object type="image/svg+xml" data="storage.svg"></object>
-            <!-- <svg
-                class="fill-current h-8 w-8 mr-2"
-                width="54"
-                height="54"
-                viewBox="0 0 54 54"
-                xmlns="http://www.w3.org/2000/svg"
-            >
-                <path
-                    d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"
-                />
-            </svg> -->
-            <router-link
-                :to="{ name: 'home' }"
-                class="cursor-pointer font-semibold text-xl tracking-tight"
-                >DROCHAIN</router-link
-            >
-        </div>
+    <nav class="flex flex-row items-center justify-between bg-white px-6 py-4">
+        <!-- <div class="w-1/5 flex items-center flex-shrink-0 text-indigo-800 mr-6"> -->
+        <router-link :to="{ name: 'home' }" class="w-10 cursor-pointer">
+            <img src="storage.png" class="w-1/5 h-full object-cover" />
+            <!-- <object type="image/svg+xml" data="storage.svg"></object> -->
+        </router-link>
+        <!-- </div> -->
         <div class="text-sm hidden lg:flex flex-row">
             <router-link
                 class="block mt-4 lg:inline-block lg:mt-0 text-indigo-800 hover:text-indigo-400 mr-4"
