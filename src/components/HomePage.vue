@@ -42,7 +42,7 @@
                     <h1
                         class="text-indigo-800 text-4xl font-bold text-center px-5 md:px-20"
                     >
-                        Blockchain-based Reliable Storage
+                        Blockchain-based Storage
                     </h1>
                     <h5 class="text-center text-indigo-800">
                         Take advantage of fast, distributed and reliable storage
