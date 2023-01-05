@@ -12,12 +12,31 @@
     </div>
     <div
         class="p-12 text-center relative overflow-hidden bg-no-repeat bg-cover"
-        style="background-image: url('logo.png'); height: 100%"
+        style="
+            background-image: url('bg-2.jpg');
+            background-color: rgb(238, 242, 255);
+            height: 100%;
+            width: 100%;
+            z-index: 999;
+        "
     >
         <div
+            class="absolute top-0 right-0 bottom-0 left-0 w-full h-screen overflow-hidden bg-fixed mx-auto"
+        >
+            <!-- style="
+                background-color: rgb(238, 242, 255);
+                background-image: url('bg-1.png');
+                background-repeat: no-repeat;
+                margin: 0 auto;
+                height: 100%;
+                width: 100%;
+                z-index: 999;
+                opacity: 0.5;
+            " -->
+            <!-- <div
             class="absolute top-0 right-0 bottom-0 left-0 w-full h-screen overflow-hidden bg-fixed"
             style="background-color: rgb(238, 242, 255)"
-        >
+        > -->
             <div class="flex flex-col justify-center items-center">
                 <div class="p-12 space-y-6">
                     <h1
@@ -35,7 +54,7 @@
                 >
                     <div class="p-6">
                         <h5 class="text-indigo-900 text-xl font-medium mb-2">
-                            DROP
+                            DROCHAIN
                         </h5>
                         <p class="text-gray-700 text-base mb-4">
                             Subscribe to Notarize documents on the Blockchain

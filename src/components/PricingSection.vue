@@ -3,7 +3,7 @@
         class="mb-10 bg-gradient-to-tl from-indigo-50 to-indigo-50 w-full h-72 relative mx-auto lg:h-96 lg:w-3/4"
     >
         <img
-            src="@/assets/bg-1.png"
+            src="bg-1.png"
             class="w-full h-full object-cover absolute mix-blend-overlay opacity-50"
         />
         <div
