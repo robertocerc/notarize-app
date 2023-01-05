@@ -13,7 +13,7 @@
     <div
         class="p-12 text-center relative overflow-hidden bg-no-repeat bg-cover"
         style="
-            background-image: url('bg-2.jpg');
+            background-image: url('Nuvola - 115996.mp4');
             background-color: rgb(238, 242, 255);
             height: 100%;
             width: 100%;
