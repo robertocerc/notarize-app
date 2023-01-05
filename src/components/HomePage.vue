@@ -13,7 +13,7 @@
     <div
         class="p-12 text-center relative overflow-hidden bg-no-repeat bg-cover"
         style="
-            background-image: url('purple-skin-g860818ab9_1920.jpg');
+            background-image: url('bg-2.jpg');
             background-color: rgb(238, 242, 255);
             height: 100%;
             width: 100%;
