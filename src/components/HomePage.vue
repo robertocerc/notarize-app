@@ -53,11 +53,11 @@
                     class="block h-full rounded-lg shadow-lg bg-white max-w-sm text-center"
                 >
                     <div class="p-6">
-                        <h5 class="text-indigo-900 text-xl font-medium mb-2">
+                        <h5 class="text-indigo-900 text-xl font-bold mb-2">
                             DROCHAIN
                         </h5>
                         <p class="text-gray-700 text-base mb-4">
-                            Subscribe to Notarize documents on the Blockchain
+                            Subscribe to notarize documents
                         </p>
                         <p class="text-gray-700 text-base mb-4">$15/cycle</p>
                         <div class="flex justify-center">
